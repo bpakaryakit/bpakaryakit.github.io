@@ -2,171 +2,262 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>Ana Sayfa</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="Shortcut Icon" href="images/logo.png" type="image/x-icon">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <title>Ana Sayfa</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="Shortcut Icon" href="images/logo.png" type="image/x-icon">
+  <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 
 </head>
 
 
-<body>
-
-
-    <div class="header">
-        <a class="logo1"><img src="images/icon.png" height="70" width="70" alt=""></a>
-        <a href="#" class="logo1">Bilgisayar Programcılığı</a>
-
+<body style="background-color: SlateGray  ;">
+  <div class="sidebar close">
+    <div class="logo-details">
+      <i><img src="images/icon.png" height="50" width="50" alt=""></i>
+      <span class="logo_name">Bilgisayar Programcılığı</span>
     </div>
-
-    <nav>
-        <ul>
-            <li><a href="index.html"><i class="fa-solid fa-house"></i> Ana Sayfa</a> </li>
-            <li><a href="pages/syllabus.html"><i class="fa-solid fa-clipboard-list"></i> Ders Programı</a></li>
-            <li><a class="yasak" onselectstart="return false"><i class="fa-solid fa-file-pdf"></i> Pdf'ler</a>
-                <ul>
-                    <li><a href="pages/1.html">Yazılım Donanım Kurulumu Ve Yönetimi</a></li>
-                    <li><a href="pages/2.html">Web Tasarımın Temelleri</a></li>
-                    <li><a href="pages/3.html">Temel Elektronik</a></li>
-                    <li><a href="pages/4.html">Programlamanın Temelleri</a></li>
-                    <li><a href="pages/5.html">Matematik 1</a></li>
-                    <li><a href="pages/6.html">Veri Tabanı Ve Yönetim Sistemleri</a></li>
-                    <li><a href="pages/7.html">İlk Yardım</a></li>
-                </ul>
-            </li>
-            <li><a class="yasak" onselectstart="return false"><i class="fa-solid fa-person-chalkboard"></i>
-                    Öğretmenler</a>
-                <ul>
-                    <li><a target="_blank"
-                            href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=1834E9056FC26C74">Serkan
-                            Sökmen</a></li>
-                    <li><a target="_blank"
-                            href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=109A83AD17C2A6CE">Arif
-                            Günel</a></li>
-                    <li><a target="_blank"
-                            href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=6542112720FC0548">Şamil
-                            Akçağıl</a></li>
-                    <li><a target="_blank"
-                            href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=6EE2FFCB7FBDE474">Uğur
-                            Kayiş</a></li>
-                </ul>
-            </li>
-            <li><a target="_blank" href="https://obs.bilecik.edu.tr/login.aspx?ReturnUrl=/default.aspx"><i
-                        class="fa-solid fa-graduation-cap"></i> ÖBS Giriş</a></li>
-            <li><a href="pages/academiccalendar.html"><i class="fa-solid fa-building-columns"></i> Akademik Takvim</a>
-            </li>
-            <li><a target="_blank" href="https://unka.bilecik.edu.tr:82/User/Login"><i
-                        class="fa-solid fa-credit-card"></i> Akıllı Kart Sistemi</a></li>
-            <li><a target="_blank" href="http://w3.bilecik.edu.tr/sks/beslenme-hizmetleri-2/yemek-menusu/"><i
-                        class="fa-solid fa-carrot"></i> Yemek Menüsü</a></li>
+    <ul class="nav-links">
+      <li>
+        <a href="#">
+          <i class="fa-brands fa-phoenix-framework"></i>
+          <span class="link_name">Ana Sayfa</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="#">Ana Sayfa</a></li>
         </ul>
-    </nav>
-
-    <div class="section full-height over-hide px-4 px-sm-0">
-        <div class="row full-height justify-content-center">
-            <div class="col-lg-10 col-xl-8 align-self-center padding-tb">
-                <div class="section mx-auto text-center slider-height-padding">
-                    <input class="checkbox frst" type="radio" id="slide-1" name="slider" checked />
-                    <label for="slide-1"></label>
-                    <input class="checkbox scnd" type="radio" name="slider" id="slider-2" />
-                    <label for="slider-2"></label>
-                    <input class="checkbox thrd" type="radio" name="slider" id="slider-3" />
-                    <label for="slider-3"></label>
-                    <input class="checkbox foth" type="radio" name="slider" id="slider-4" />
-                    <label for="slider-4"></label>
-                    <ul>
-                        <li>
-                            <span>MALE GOOFY FACE</span>
-                        </li>
-                        <li>
-                            <span>TOY PIG</span>
-                        </li>
-                        <li>
-                            <span>SHY PORTRAIT</span>
-                        </li>
-                        <li>
-                            <span>SKATEBOARD FACE</span>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+      </li>
+      <li>
+        <a href="pages/syllabus.html">
+          <i class="fa-regular fa-calendar-days"></i>
+          <span class="link_name">Ders Programı</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="pages/syllabus.html">Ders Programı</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class="fa-solid fa-file-pdf"></i>
+            <span class="link_name">PDF'ler</span>
+          </a>
+          <i class="fa-solid fa-caret-down"></i>
         </div>
+        <ul class="sub-menu">
+          <li><a class="link_name" href="#">PDF'ler</a></li>
+          <li><a href="pages/1.html">Yazılım Donanım Kurulumu Ve Yönetimi</a></li>
+          <li><a href="pages/2.html">Web Tasarımın Temelleri</a></li>
+          <li><a href="pages/3.html">Temel Elektronik</a></li>
+          <li><a href="pages/4.html">Programlamanın Temelleri</a></li>
+          <li><a href="pages/5.html">Matematik 1</a></li>
+          <li><a href="pages/6.html">Veri Tabanı Ve Yönetim Sistemleri</a></li>
+          <li><a href="pages/7.html">İlk Yardım</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class="fa-solid fa-chalkboard-user"></i>
+            <span class="link_name">Öğretmenler</span>
+          </a>
+          <i class="fa-solid fa-caret-down"></i>
+        </div>
+        <ul class="sub-menu">
+          <li><a class="link_name" href="#">Öğretmenler</a></li>
+          <li><a target="_blank"
+              href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=1834E9056FC26C74">Serkan
+              Sökmen</a></li>
+          <li><a target="_blank"
+              href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=109A83AD17C2A6CE">Arif
+              Günel</a></li>
+          <li><a target="_blank"
+              href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=6542112720FC0548">Şamil
+              Akçağıl</a></li>
+          <li><a target="_blank"
+              href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=6EE2FFCB7FBDE474">Uğur
+              Kayiş</a></li>
+        </ul>
+      </li>
+      <li>
+        <a target="_blank" href="https://obs.bilecik.edu.tr/login.aspx?ReturnUrl=/default.aspx">
+          <i class='fa-solid fa-graduation-cap'></i>
+          <span class="link_name">ÖBS Giriş</span><i id="link" class="fa-solid fa-arrow-up-right-from-square"></i>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" target="_blank"
+              href="https://obs.bilecik.edu.tr/login.aspx?ReturnUrl=/default.aspx">ÖBS Giriş</a></li>
+        </ul>
+      </li>
+      <li>
+        <a target="_blank" href="http://w3.bilecik.edu.tr/sks/beslenme-hizmetleri-2/yemek-menusu/">
+          <i class="fa-solid fa-pizza-slice"></i>
+          <span class="link_name">Yemek Menüsü</span><i id="link" class="fa-solid fa-arrow-up-right-from-square"></i>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" target="_blank"
+              href="http://w3.bilecik.edu.tr/sks/beslenme-hizmetleri-2/yemek-menusu/">Yemek Menüsü</a></li>
+        </ul>
+      </li>
+      <li>
+        <a target="_blank" href="https://unka.bilecik.edu.tr:82/User/Login">
+          <i class="fa-solid fa-id-card"></i>
+          <span class="link_name">Unka Bilecik</span><i id="link" class="fa-solid fa-arrow-up-right-from-square"></i>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" target="_blank" href="https://unka.bilecik.edu.tr:82/User/Login">Unka Bilecik</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="pages/academiccalendar.html">
+          <i class='fa-solid fa-building-columns'></i>
+          <span class="link_name">Akademik Takvim</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="pages/academiccalendar.html">Akademik Takvim</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="pages/examdates.html">
+          <i class="fa-solid fa-pencil"></i>
+          <span class="link_name">Sınav Tarihleri</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="pages/examdates.html">Sınav Tarihleri</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="pages/activity.html">
+          <i class="fa-solid fa-volleyball"></i>
+          <span class="link_name">Etkinlikler</span>
+        </a>
+        <ul class="sub-menu blank">
+          <li><a class="link_name" href="pages/activity.html">Etkinlikler</a></li>
+        </ul>
+      </li>
+      <li>
+        <div class="profile-details">
+          <div class="name-job">
+            <div class="profile_name">Murat Karman</div>
+            <div class="job">Bankacılık Ve Sigortacılık</div>
+          </div>
+          <a target="_blank" href="https://www.instagram.com/muratkarman14/"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <section class="home-section">
+    <div class="home-content">
+      <i class="fa-solid fa-bars"></i>
+      <span class="text">Ana Sayfa</span>
     </div>
+  </section>
+  <script>
+    let arrow = document.querySelectorAll(".fa-caret-down");
+    for (var i = 0; i < arrow.length; i++) {
+      arrow[i].addEventListener("click", (e) => {
+        let arrowParent = e.target.parentElement.parentElement;
+        arrowParent.classList.toggle("showMenu");
+      });
+    }
+    let sidebar = document.querySelector(".sidebar");
+    let sidebarBtn = document.querySelector(".fa-bars");
+    console.log(sidebarBtn);
+    sidebarBtn.addEventListener("click", () => {
+      sidebar.classList.toggle("close");
+    });
+  </script>
 
-
-    <div class="hadis">
-        <script language="JavaScript"> today2 = new Date()
-            tamteam = 19
-            today = today2.getTime() / 10
-            rnd = today % tamteam
-            if (rnd > 19) {
-                document.writeln("Allahım Sen Beni Dostlerımdan Koru Düşmanlarımla Ben Başa Çıkarım.")
-            } else if (rnd > 18) {
-                document.writeln("Cehalet Yoluna Giren Adalet Yolunu Bırakır.")
-            } else if (rnd > 17) {
-                document.writeln("Hedefe nisan alamadan önce, barutun var mi kontrol et.")
-            } else if (rnd > 16) {
-                document.writeln("Kadin kasa gibidir, sifresi bilinmeden açilmaz.")
-            } else if (rnd > 15) {
-                document.writeln("Sicak bir gülüs bir buz dagini eritebilir.")
-            } else if (rnd > 14) {
-                document.writeln("Isik yanmadan karanlik  yok olmaz.")
-            } else if (rnd > 13) {
-                document.writeln("Hayal gücü ruhun gözüdür.")
-            } else if (rnd > 12) {
-                document.writeln("Hayat zorlastiginda tutunacak birilerini ararsiniz.")
-            } else if (rnd > 11) {
-                document.writeln("Arkadan konusmak yalniz ahlaksizlik degil, korkakliktir da.")
-            } else if (rnd > 10) {
-                document.writeln("Ne yazik ki, bazen insanlar siz bagirmadikça duymuyorlar.")
-            } else if (rnd > 9) {
-                document.writeln("Dostlariniz azaldigi derecede ölüme biraz daha yaklasmissinizdir demektir.")
-            } else if (rnd > 8) {
-                document.writeln("Ask birbirine bakmak degil birlikte ayni yöne bakmaktir.")
-            } else if (rnd > 7) {
-                document.writeln("Asiri yüz bulan ve her dedigini yaptiran ask usandirir.")
-            } else if (rnd > 6) {
-                document.writeln("Ne kazandik bu kadar bakmak ile Leylegin ömrü geçer laklak ile.")
-            } else if (rnd > 5) {
-                document.writeln("Ahmaktan uzaklasmak Allah'a yaklasmaktir.")
-            } else if (rnd > 4) {
-                document.writeln("Dürtmedigi sürece seytana uymam.")
-            } else if (rnd > 3) {
-                document.writeln("Bazi insanlar kafalariyla hissederler ve kalpleriyle düsünürler.")
-            } else if (rnd > 2) {
-                document.writeln("Kendisi ile barisik olmayan herkese darilir.")
-            } else if (rnd > 1) {
-                document.writeln("Kendini seveni baskasi sevmez.")
-            } else {
-                document.writeln("Öyle kaba insanlar vardir ki ayi onlarin yaninda centilmen sayilir.")
-            }
+  <div class="projects-section">
+    <div class="projects-section-header">
+      <p>Bilgisayar Programcılığı</p>
+      <p class="time">
+        <script language="JavaScript">
+          var now = new Date(); var yr = now.getYear(); var mName = now.getMonth() + 1; var dName = now.getDay() + 1;
+          var yr_str = " 19";
+          var dayNr = ((now.getDate() < 10) ? "" : "") + now.getDate(); if (dName == 1) Day = "Pazar"; if (dName == 2) Day = "Pazartesi"; if (dName == 3) Day = "Salı"; if (dName == 4) Day = "ï¿½arşamba"; if (dName == 5) Day = "Perşembe"; if (dName == 6) Day = "Cuma HAYIRLI CUMALAR"; if (dName == 7) Day = "Cumartesi"; if (mName == 1) Month = "Ocak"; if (mName == 2) Month = "Şubat"; if (mName == 3) Month = "Mart";
+          if (mName == 4) Month = "Nisan"; if (mName == 5) Month = "Mayıs"; if (mName == 6) Month = "Haziran"; if (mName == 7) Month = "Temmuz"; if (mName == 8) Month = "Ağustos"; if (mName == 9) Month = "Eylï¿½l";
+          if (mName == 10) Month = "Ekim"; if (mName == 11) Month = "Kasım"; if (mName == 12) Month = "Aralık";
+          if (yr > 99) {
+            yr_str = " ";
+            if (yr < 2000) yr += 1900;
+          } var todaysDate = (" " + dayNr + " " + Month + yr_str + yr + "" + ", " + Day + ""); document.open(); document.write("<FONT face=arial SIZE=5 color=black>" + todaysDate + "</FONT>");// -->
         </script>
+      </p>
     </div>
-
-    <center>
-
-        <div class="dayak">
-            <marquee direction="right" scrollamount=4>
-                <pre>
-                       █▀▀░░█
-                  ▄▀▀▀▀░░░░░█▄▄
-                  █░█░░░░░░░░░░▐
-                  ▐▐░░░░░░░░░▄░▐
-                  █░░░░░░░░▄▀▀░▐
-                ▄▀░░░░░░░░▐░▄▄▀
-              ▄▀░░░▐░░░░░█▄▀░▐
-              █░░░▐░░░░░░░░▄░█
-               █▄░░▀▄░░░░▄▀▐░█
-               █▐▀▀▀░▀▀▀▀  ▐░█
-            ▄▄▐█▐▄ 💩     ▐░█▄▄
-           ▀▄▄▄▄▀▀         ▄▐▄▄▄▀
-        </pre>
-            </marquee>
+    <div class="projects-section-line">
+      <div class="projects-status">
+        <div class="item-status">
+          <span class="status-number">54</span>
+          <span class="status-type">Öğrenci</span>
         </div>
-    </center>
+        <div class="item-status">
+          <span class="status-number">36</span>
+          <span class="status-type">Erkek</span>
+        </div>
+        <div class="item-status">
+          <span class="status-number">18</span>
+          <span class="status-type">Kız</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
+<center>
+  <main class="page-content">
+    <div class="card">
+      <div class="content">
+        <h2 class="title">Max Eğlence</h2>
+        <p class="copy">Pazaryerinde enerjinizi ve paranızı harcayabileceğiniz küçük eğlence yerlerin konumları.</p>
+        <button class="btn">Göster</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="content">
+        <h2 class="title">Kalacak Yer</h2>
+        <p class="copy">Pazaryerinde kalabileceğiniz yerlerin konumları ve bazılarının yorumları vardır.</p>
+        <button class="btn">Göster</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="content">
+        <h2 class="title">Aş Olan Yerler</h2>
+        <p class="copy">Pazaryerindeki güzel yemek yerlerinin yorumları ve konumları.</p>
+        <button class="btn">Göster</button>
+      </div>
+    </div>
+    <div class="card">
+      <div class="content">
+        <h2 class="title">İnstagramlar</h2>
+        <p class="copy">Bilgisayar Programcılığındaki öğrencilerin instagramlarına yönlendirme vardır.</p>
+        <button class="btn">Göster</button>
+      </div>
+    </div>
+  </main>
+</center>
+
+<div class="dayak">
+  <marquee direction="right" scrollamount=4>
+      <pre>
+             █▀▀░░█
+        ▄▀▀▀▀░░░░░█▄▄
+        █░█░░░░░░░░░░▐
+        ▐▐░░░░░░░░░▄░▐
+        █░░░░░░░░▄▀▀░▐
+      ▄▀░░░░░░░░▐░▄▄▀
+    ▄▀░░░▐░░░░░█▄▀░▐
+    █░░░▐░░░░░░░░▄░█
+     █▄░░▀▄░░░░▄▀▐░█
+     █▐▀▀▀░▀▀▀▀  ▐░█
+  ▄▄▐█▐▄ 💩     ▐░█▄▄
+ ▀▄▄▄▄▀▀         ▄▐▄▄▄▀
+</pre>
+  </marquee>
+</div>
+  <script src="js/box.js"></script>
 </body>
 
 </html>
