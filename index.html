@@ -40,11 +40,9 @@
       </li>
       <li>
         <div class="iocn-link">
-          <a href="#">
             <i class="fa-solid fa-file-pdf"></i>
             <span class="link_name">PDF'ler</span>
-          </a>
-          <i class="fa-solid fa-caret-down"></i>
+          <i id="ok" class="fa-solid fa-caret-down"></i>
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">PDF'ler</a></li>
@@ -59,11 +57,9 @@
       </li>
       <li>
         <div class="iocn-link">
-          <a href="#">
             <i class="fa-solid fa-chalkboard-user"></i>
             <span class="link_name">Öğretmenler</span>
-          </a>
-          <i class="fa-solid fa-caret-down"></i>
+          <i id="ok" class="fa-solid fa-caret-down"></i>
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Öğretmenler</a></li>
@@ -156,11 +152,13 @@
     </div>
   </section>
   <script>
-    let arrow = document.querySelectorAll(".fa-caret-down");
+    let arrow = document.querySelectorAll(".iocn-link");
     for (var i = 0; i < arrow.length; i++) {
       arrow[i].addEventListener("click", (e) => {
         let arrowParent = e.target.parentElement.parentElement;
+        let arrow = e.target.parentElement;
         arrowParent.classList.toggle("showMenu");
+        arrow.classList.toggle("showMenu");
       });
     }
     let sidebar = document.querySelector(".sidebar");
