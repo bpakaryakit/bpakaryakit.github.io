@@ -780,6 +780,10 @@
     color: SlateGray;
     padding: 100px;
   }
+  .page-content{
+    margin-left: 70px;
+  
+  }
 }
 
 /*Tablet*/
@@ -2335,9 +2339,8 @@
     padding: 100px;
   }
 
+  .page-content{
+    margin-left: 2px;
+  }
 }
 
-.page-content{
-  margin-left: 0;
-
-}

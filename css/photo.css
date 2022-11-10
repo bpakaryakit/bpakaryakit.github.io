@@ -16,6 +16,7 @@
 	 font-family: var(--font-sans);
      justify-content: center;
      margin-left: 78px;
+	 
 }
  @media (min-width: 600px) {
 	 .page-content {
