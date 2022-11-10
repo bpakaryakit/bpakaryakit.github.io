@@ -1635,6 +1635,8 @@
   .sidebar .nav-links li .iocn-link {
     display: flex;
     align-items: center;
+    outline: none;
+    text-decoration: none; 
   }
   
   .sidebar.close .nav-links li .iocn-link {
@@ -2322,10 +2324,11 @@
   
   .pdf {
     display: flex;
-    width: 80%;
-    height: 720px;
-    margin: 0px 0 100px 78px;
+    width: 90%;
+    height: 200px;
+    padding: 0px 0px 0px 0px;
   }
+
   
   .dayak {
     color: SlateGray;
