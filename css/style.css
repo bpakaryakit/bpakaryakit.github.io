@@ -1580,6 +1580,7 @@
     width: 100%;
     display: flex;
     align-items: center;
+    transition: all 0.5s ease;
   }
   
   .sidebar .logo-details i {
@@ -1603,6 +1604,7 @@
     opacity: 0;
     pointer-events: none;
     transition: all 0.5s ease;
+    transition: all 0.5s ease;
   }
   
   .sidebar .nav-links {
@@ -1613,6 +1615,7 @@
   
   .sidebar.close .nav-links {
     overflow: visible;
+    transition: all 0.5s ease;
   }
   
   .sidebar .nav-links::-webkit-scrollbar {
@@ -1801,7 +1804,7 @@
   .sidebar .profile-details .profile_name,
   .sidebar .profile-details .job {
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 500;
     white-space: nowrap;
   }
@@ -1813,7 +1816,7 @@
   }
   
   .sidebar .profile-details .job {
-    font-size: 12px;
+    font-size: 9px;
   }
   
   .home-section {
@@ -1821,13 +1824,13 @@
     height: 60px;
     left: 80%;
     width: calc(100% - 80%);
-    transition: all 0.5s ease;
+    transition: 0.5s;
   }
   
   .sidebar.close~.home-section {
-    left: 0;
-    width: calc(100% - 78px);
-    transition: all 0.5s ease;
+    left: 0px;
+    width: calc(100% - 0px);
+    transition: 0s;
   }
   
   .home-section .home-content {
