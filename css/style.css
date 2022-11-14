@@ -8,6 +8,11 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+.stat{
+  display: none;
+width: 70px;
+}
 /*Bilgisayar*/
 @media screen and (min-width: 1366px){
   .sidebar {
