@@ -1959,7 +1959,7 @@ display: none;
   }
   
   .status-number {
-    font-size: 19px;
+    font-size: 18px;
     line-height: 32px;
     font-weight: 700;
     color: #07060e;
@@ -1970,6 +1970,7 @@ display: none;
     position: relative;
     padding-right: 19px;
     color: #07060e;
+    font-size: 15px;
   }
   
   .view-actions {
