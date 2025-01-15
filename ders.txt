@@ -1,0 +1,21 @@
+
+        {
+          "ad": "Ders",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Sınav/Vize.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Sınav/Final.pdf"
+            }
+          ],
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 2/Pdf/Not.pdf"
+            }
+          ]
+        },

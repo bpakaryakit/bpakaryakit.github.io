@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ders Listesi</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+
+<body>
+
+  <div class="back">
+    <div class="menu">
+      <a href="../index.html"><div class="menu-logo"></div></a>
+      <div class="menu-item">
+        <ul>
+          <li><a href="../index.html">Anasayfa</a></li>
+          <li><a href="bolumlistesi.html">Bölümler</a></li>
+          <li><a href="/Pages/GurmeDeneyimi.html">Gurme Deneyimi</a></li>
+          <li><a href="/Pages/BilecikHarikalari.html">Bilecik Harikaları</a></li>
+          <li><a href="/Pages/GeceHayati.html">Gece Hayatı</a></li>
+        </ul>
+      </div>
+      <div class="menu-span-text"><span>PDF Gönder</span></div>
+            <div class="menu-span-button"><i class="fa-solid fa-bars"></i></div>
+    </div>
+  </div>
+
+  <div class="system">
+    <div class="bolum-container">
+      <div class="header">
+        <div class="bolum-container-title" id="ders-container-title">
+          <div class="map-title"><p id="bolum-adi"></p><p>&nbsp;Bölümü Dersleri</p></div>
+          <div class="map"><a href="../index.html">Anasayfa</a><span>></span><a href="#" onclick="goBack(event)">Bölümler/Programlar</a><span>></span><a href="#">Dersler</a></div>
+        </div>
+      </div>
+      <div id="ders-listesi"></div>
+      <script src="derslistesi.js"></script>
+      <script src="ders.js"></script>
+      <script src="../script.js"></script>
+    </div>
+  </div>
+</body>
+
+</html>

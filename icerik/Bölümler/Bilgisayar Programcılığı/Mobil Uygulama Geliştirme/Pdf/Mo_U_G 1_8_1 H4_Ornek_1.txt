@@ -1,0 +1,45 @@
+//Bu dosyayının formatını .txt değil .dart yapın
+
+
+
+
+import 'dart:io';
+import 'dart:math';
+
+void main() {
+  const double pi = 3.14;  // var const !!!!
+  int sayac = 0; // final !!!
+  // print('Merhaba Dünya...');
+  while (true) {
+    print('Daire\'nin Yarı Çapını Giriniz: ');
+    var input = stdin.readLineSync(); // ! ?
+
+    if(input == 'q')
+    {
+      var metin= 'Çıkış Yapıldı';
+      print('Metin Uzunluğu = ${metin.length}');
+      print('Metin BÜYÜK Karakter = ${metin.toUpperCase()}');
+      break;
+    }
+
+    if (input != null) {
+      var r = int.parse(input);
+      print('Yari Çap: $r'); // print('Yarı Çap: ' + r.toString());
+
+      var alan = pi * pow(r, 2);
+      var cevre = 2 * pi * r;
+
+      sayac +=1; // sayac = sayac+1;
+      
+      // pi=4; const - final değiştirilemez... !!!
+      var sonuc = """
+Alan  => $alan
+Çevre => $cevre
+İşlem Sayısı => $sayac
+    """;
+      print(sonuc);
+    } else {
+      print('input null');
+    }
+  }
+}

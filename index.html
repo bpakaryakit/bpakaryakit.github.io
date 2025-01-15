@@ -1,32 +1,87 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 
 <head>
-    <title>a</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            background-color: #000000;
-        }
-
-        a {
-            background-image: url("a.gif");
-            width: 100%;
-            height: 100%;
-            position: fixed;
-            background-repeat: no-repeat;
-            background-size: contain;
-            text-decoration: none;
-            background-position: center;
-            color: azure;
-        }
-    </style>
+    <title>Anasayfa - Dersler</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <a href="https://www.youtube.com/watch?v=OCf6l3SjnpY">a</a>
+
+    <div class="back">
+        <div class="menu">
+            <a href="index.html">
+                <div class="menu-logo"></div>
+            </a>
+            <div class="menu-item">
+                <ul>
+                    <li><a href="index.html">Anasayfa</a></li>
+                    <li><a href="icerik/bolumlistesi.html">Bölümler</a></li>
+                    <li><a href="pages/gurmedeneyimi.html">Gurme Deneyimi</a></li>
+                    <li><a href="pages/bilecikharikalari.html">Bilecik Harikaları</a></li>
+                    <li><a href="pages/gecehayati.html">Gece Hayatı</a></li>
+                </ul>
+            </div>
+            <div class="menu-span-text"><span>PDF Gönder</span></div>
+            <div class="menu-span-button"><i class="fa-solid fa-bars"></i></div>
+        </div>
+    </div>
+
+    <div class="bolum-container">
+        <h1 class="website">bpakaryakit.github.io</h1>
+        <div class="container">
+            <a class="cont-a" target="_blank" href="https://bilecik.edu.tr/sks/Icerik/Yemek_Men%C3%BCs%C3%BC_cc6e6">
+                <div class="container-block" id="block1">
+                    <div class="block-title">Yemek Menüsü</div>
+                </div>
+            </a>
+            <a class="cont-a" target="_blank" href="https://unka.bilecik.edu.tr:82/User/Login">
+                <div class="container-block" id="block2">
+                    <div class="block-title">Para Yükleme</div>
+                </div>
+            </a>
+            <a class="cont-a" target="_blank" href="https://bilecik.edu.tr/pazaryeri/arama/4">
+                <div class="container-block" id="block3">
+                    <div class="block-title">Duyurular</div>
+                </div>
+            </a>
+            <a class="cont-a" target="_blank" href="https://bilecik.edu.tr/pazaryeri/Icerik/Akademik_Takvim_55740">
+                <div class="container-block" id="block4">
+                    <div class="block-title">Akademik Takvim</div>
+                </div>
+            </a>
+            <a class="cont-a" target="_blank" href="https://obs.bilecik.edu.tr/login.aspx?ReturnUrl=/default.aspx">
+                <div class="container-block" id="block5">
+                    <div class="block-title">ÖBS Giriş</div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="dayak">
+        <marquee direction="right" scrollamount=4>
+            <pre>
+               █▀▀░░█
+          ▄▀▀▀▀░░░░░█▄▄
+          █░█░░░░░░░░░░▐
+          ▐▐░░░░░░░░░▄░▐
+          █░░░░░░░░▄▀▀░▐
+        ▄▀░░░░░░░░▐░▄▄▀
+      ▄▀░░░▐░░░░░█▄▀░▐
+      █░░░▐░░░░░░░░▄░█
+       █▄░░▀▄░░░░▄▀▐░█
+       █▐▀▀▀░▀▀▀▀  ▐░█
+    ▄▄▐█▐▄ 💩     ▐░█▄▄
+   ▀▄▄▄▄▀▀         ▄▐▄▄▄▀
+  </pre>
+        </marquee>
+    </div>
+
+
+    <script src="script.js"></script>
 </body>
 
 </html>

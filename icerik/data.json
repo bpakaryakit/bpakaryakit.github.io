@@ -1,0 +1,1184 @@
+{
+  "bolumler": [
+    {
+      "ad": "Uzaktan Eğitim Dersleri",
+      "resim": "Uzem.png",
+      "dersler": [
+        {
+          "ad": "Atatürk İlkeleri ve İnkılap Tarihi 1",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Sınav/Tarih 1 Ara Sınav.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Sınav/Tarih 1 Final.pdf"
+            }
+          ],
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_1_ATA 101 (1. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_2_ATA 101 (2. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_3_ATA 101 (3. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_4_ATA 101 (4. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_5_ATA 101 (5. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_6_ATA 101 (6. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_7_ATA 101 (7. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_8_ATA 101 (8. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_9_ATA 101 (9. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_10_ATA 101 (10. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_11_ATA 101 (11. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_12_ATA 101 (12. HAFTA).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 1/Pdf/AİVİT_13_ATA 101 (13. HAFTA).pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Atatürk İlkeleri ve İnkılap Tarihi 2",
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (1. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (2. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (3. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (4. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (5. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (6. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (7. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (8. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (9. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (10. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (11. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (12. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (13. HAFTA ).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Atatürk İlkeleri ve İnkılap Tarihi 2/Pdf/ATA 102 (14. HAFTA.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "İngilizce 1",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Uzem/İngilizce 1/Sınav/İngilizce 1 Vize.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Uzem/İngilizce 1/Sınav/İngilizce 1 Final.pdf"
+            }
+          ],
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_1_Week - 1 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_2_Week - 2 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_3_Week - 3 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_4_Week - 4 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_5_Week - 5 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_6_Week - 6 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_7_Week - 7- Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_8_Week - 8 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_9_Week - 9- Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_10_Week - 10- Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_11_Week - 11- Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_12_Week - 12 - Presentation (Sunu) PDF.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 1/Pdf/İ_13_Week - 13 - Presentation (Sunu) PDF.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "İngilizce 2",
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 1 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not Ses Dosyası",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 2 - Audio (Ses Dosyası).mp3"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 2 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 3 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 4 - Exercises (Alıştırma).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 4- Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 5- Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 6- Presentation (Sunu) (PPT).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 7 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 8 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 9 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not Ses Dosyası",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 11 - Audio (Ses Dosyası).mp3"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 11 - Exercises (Alıştırmalar).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 11 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 12 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not Ses Dosyası",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 13 - Audio (Ses Dosyası).mp3"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 13 - Presentation (Sunu) (PDF).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/İngilizce 2/Pdf/Week - 14 - Presentation (Sunu) (PDF).pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Türk Dili ve Edebiyatı 1",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Sınav/Türk Dili 1 Vize.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Sınav/Türk Dili 1 Final.pdf"
+            }
+          ],
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_1_Güz Dönemi-Sunu-1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_2_Sunu-2.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_3_Güz Dönemi Sunu-3.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_4_Güz Dönemi-Sunu-4.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_5_Güz Dönemi-Sunu-5-1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_6_6. Hafta_Kelime Bilgisi_PDF.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_7_ Hafta slayt.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_8_Güz Dönemi-Sunu-8.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_9_Güz Dönemi-Sunu-9.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_10_Güz Dönemi-Sunu-10.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_11_Güz Dönemi-Sunu-11.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_12_Sunu-12.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_13_Güz Dönemi Sunu-13-1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 1/Pdf/TD_14_Güz Dönemi-Sunu-14.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Türk Dili ve Edebiyatı 2",
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_1 1.Hafta Sunu-Kompozisyonla İlgili Genel Bilgiler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_2 2.Hafta-Yazılı Kompozisyon Türleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_3 Yazılı Kompozisyon Türleri (Fikri Yazılar).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_4 Sunu-4.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_5 Sunu-5.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_6 Sunu-6.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_7 Sunu-7.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_8 Sunu-8.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_9 Sunu-9.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_10 Sunu-10.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_11 11 Sunu-11.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_12 Sunu-12.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_13 Sunu-13.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Uzem/Türk Dili ve Edebiyatı 2/Pdf/T_D2_1_14 Sunu-14.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ad": "Bankacılık ve Sigortacılık",
+      "resim": "Banka.png",
+      "dersler": []
+    },
+    {
+      "ad": "Bilgisayar Programcılığı",
+      "resim": "Bilgisayar.png",
+      "dersler": [
+        {
+          "ad": "Ağ Teknolojileri",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Sınav/Ağ Teknolojileri Vize 1_2.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Sınav/Ağ Teknolojileri Final 1_2.pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_1 GİRİŞ.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_2 Ağ Kavramları.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_3 Bilgisayar Ağlarının Sınıflandırılması.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_4 Kablo Türleri 1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_5 Kablo Türleri 2 Fiber Optik.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_6 Standart  belirleyen kuruluşlur.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_7 Ağ Cihazları.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_8 OSI Referans Modeli.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_9 TCP-IP.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_10 IP Adresleme IPv4,IPv6.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_11 Alt Ağlara Bölme.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_12 Data Projelendirme Ve Yapısal Kablolama.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ağ Teknolojileri/Pdf/A_T 1_13 Veri Merkezi Tasarımı.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "C Programlama",
+          "sinavlar": [
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/C Programlama/Sınav/C Final.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "İleri Web Programlama",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Sınav/İleri Web Programlama Vize 1_2.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Sınav/İleri Web Programlama Final 1_2.pdf"
+            },
+            {
+              "ad": "Bütünleme",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Sınav/İleri Web Programlama Bütünleme 1_2.pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_1 hafta_1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_2 hafta_2_Textbox_label_button_merhaba_isim.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_3 Hafta_3_hesap_makinasi.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_4 hafta_4_tablo_olusturma.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_5 hafta_5_listbox_uygulamalari.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_6 dropdownlist_il_ilce_listeleme.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_7 hafta_7_dropdownlist2_basvuru_form_b.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_8 hafta_8_calendar_b.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_9 hafta_9_request_manipulation_B.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_10 hafta_11_wizard.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_11 hafta_12_master_pageB.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_12 checkbox_radiobuttonB.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İleri Web Programlama/Pdf/I_W_P 1_13 veritabani.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "İşletim Sistemleri",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Sınav/İşletim Sistemleri Vize.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Sınav/İşletim Sistemleri Final.pdf"
+            }
+          ],
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_1_İşletim sistemi ile ilgili temel kavramlar ve tarihçe.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_2_Yaygın Kullanılan İşletim Sistemleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_3_İşletim Sistemlerinin Temel Görevleri ve Sınıflandırılması.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_4_Bilgisayar ve İşletim Sisteminin Yapısı.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_5_Özel Amaçlı Sistemler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_6_. Açık Kaynak İşletim Sistemleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_7_. Mobil İşletim Sistemleri+.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_8_. Dağıtık Hesaplama ve Dağıtık Sistemler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_9_. Sanal İşletim Sistemi Kurulumu.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_9.1_ Açık Kaynak İşletim Sistemi Temel Araçları ve Uy.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_10_. İşletim Sistemleri Karşılaştırması+.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/İşletim Sistemleri/Pdf/İS_10.1_. Linux Komutları.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Masaüstü Uygulama Geliştirme",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Sınav/Masaüstü Uygulama Geliştirme Vize 1_2.pdf"
+            },
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Sınav/Masaüstü Uygulama Geliştirme Final 1_2.pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_1 CSharp GİRİŞ.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_2 Değişkenler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_3 Veri Türleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_4 Tür Dönüşümleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_5 Operatörlerr.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_6 Akış Kontrol Mekanizmaları if else.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_7 Akış Kontrol Mekanizmaları switchCase.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_8 Döngü for foreach.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_9 Döngü_while_dowhile.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_10 Diziler Array.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_11 Çok Boyutlu Diziler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_12 Metotlar (Fonksiyonlar).pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_13 Sınıflar.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_14 Form Tasarımı Giriş.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_15 Kontrol Ekleme Ve Özellikleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_16 Kontrol Ekleme Ve Özellikleri 2.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Masaüstü Uygulama Geliştirme/Pdf/Ma_U_G 1_17Entity Framework.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Matematik 1",
+          "sinavlar": [
+            {
+              "ad": "Vize A",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Sınav/Matematik I Ara Sınav A (Cevap Anahtarı).pdf"
+            },
+            {
+              "ad": "Vize A",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Sınav/Matematik-I Ara Sınav AA (Cevap Anahtarı).pdf"
+            },
+            {
+              "ad": "Vize A",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Sınav/Matematik-I Ara Sınav AAA (Cevap Anahtarı).pdf"
+            },
+            {
+              "ad": "Final A",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Sınav/Matematik-I Final A (Cevap Anahtarı)[51].pdf"
+            },
+            {
+              "ad": "Final A",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Sınav/Matematik-I final AA (Cevap Anahtarı)[52].pdf"
+            },
+            {
+              "ad": "Final A",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Sınav/Matematik-I Final AAA (Cevap Anahtarı)[53].pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 1/Pdf/M Matematik_1.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Matematik 2",
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 2/Pdf/M2 1_1 Matematik-I 13.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 2/Pdf/M2 1_2 Matematik-II 1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 2/Pdf/M2 1_3 Matematik-II 2.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 2/Pdf/M2 1_4 Matematik-II 3.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Matematik 2/Pdf/M2 1_5 Matematik-II 4.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Mesleki İngilizce",
+          "sinavlar": [
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Sınav/Mesleki İngilizce Final.pdf"
+            }
+          ],
+
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 2.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 3 Types of Computers.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 4 Computer Memory.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 5 Operating Systems.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 6 Data Storage.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 7 The Word Processor.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 8 Computer Networks.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 8 Grammar.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 9 The Internet.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 10 Malicious Code.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 11 Web Browsers.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 12 Social Networking.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 13 Online Communication.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 14 Buying a Computer.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mesleki İngilizce/Pdf/Unit 15 Programming Languages.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Mobil Uygulama Geliştirme",
+          "notlar": [
+            {
+              "ad": "NOT Kurulum Video",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_0 Ugulama Geliştirme Ortamının Kurulmasına Ait Video.txt"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_1 Android Giriş.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_1 Android Studio Proje Dizini.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_3 Android Tasarım Giriş.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_3_1 Android Platform Architecture.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_4 Android Çalışma Yapısı.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_5 İleri Android.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_6 String Yapısı.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_7 Standart Programlama Yapıları.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_8 Değişken Ve Veri Tipleri.pdf"
+            },
+            {
+              "ad": "NOT Dart Örnek 1",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_8_1 H4_Ornek_1.txt"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_9 Nesne Tabanlı Programlama.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_10 Collections Key.pdf"
+            },
+            {
+              "ad": "NOT Dart Örnek 2",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_11 Dart Örnek.txt"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_11 Flutter Giriş.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_12 Flutter Tasarım.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_13 Flutter Çalışma Yapısı.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_14 Flutter Widgets.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_15 Flutter Kullanıcı Etkileşimi.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_16 Material Design.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_17 İleri Flutter.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_18 Flutter Depolama İşlemleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_19 Flutter Lokasyon İşlemleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_19 İnternet Tabanlı İşlemler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Pdf/Mo_U_G 1_20 State Management.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Ofis Yazılımları",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ofis Yazılımları/Sınav/Ofis Yazılımları Vize 1_2.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ofis Yazılımları/Sınav/Ofis Yazılımları Final 1_2.pdf"
+            },
+            {
+              "ad": "Bütünleme",
+              "url": "Bölümler/Bilgisayar Programcılığı/Ofis Yazılımları/Sınav/Ofis Yazılımları Bütünleme 1_2.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Programlama Dilleri",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Programlama Dilleri/Sınav/Programlama Dilleri Vize 1_2.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Programlama Dilleri/Sınav/Programlama Dilleri Final 1_2.pdf"
+            },
+            {
+              "ad": "Bütünleme",
+              "url": "Bölümler/Bilgisayar Programcılığı/Programlama Dilleri/Sınav/Programlama Dilleri Bütünleme 1_2.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Programlamanın Temelleri",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Programlamanın Temelleri/Sınav/PT - Vize.pdf"
+            },
+            {
+              "ad": "Final", 
+              "url": "Bölümler/Bilgisayar Programcılığı/Programlamanın Temelleri/Sınav/PT- Final.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Temel Elektronik",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Sınav/TE - Vize.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Sınav/TE - Final.pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_1 Elektronik.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_2 Alternans Periyort Frekans.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_3 OHM Kanunu Seri Parelel Devre Kirchhoff Kanunu Güç Hesapla.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_4 Direnç.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_5 Ölçüm Cihazları.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_6 Kondansatörler.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_7 Bobin Transformatör.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_8 Atom İletken, Yalıtkan Ve Yarı İletken.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_9 Diyot.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_10 Transistör.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_11 Entegre.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_12 Bilgisayar Donanımı.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_13 Bilgisayar Yapısı Ve Çalışma Mantığı.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_14 Sayı Sistemleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_15 Lojik Kapılar.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Temel Elektronik/Pdf/T_E 1_16 Kodlama.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Veri Tabanı ve Yönetim Sistemleri",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Sınav/VTVYS - Vize Sorular.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Sınav/VTVYS - Final.pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_1 Giriş.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_2 Temel Kavramlar.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_3 Veri Tipleri.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_4 SQL Server Managment Studio Mimarisi.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_5 Veri Tabanı Tasarlama Ve Normalizasyon.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_6 Sorgu Yazma Ve Veri Tanımlama.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_7 Veri İşleme Dili.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_8 Veri Kontrol Dili.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_9 Sorgu Operatörleri 1.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_10 Sorgu Operatörleri 2.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Veri Tabanı ve Yönetim Sistemleri/Pdf/VTVYS - 1_11 Join.pdf"
+            }
+          ]
+        },
+        {
+          "ad": "Web Tasarımın Temelleri",
+          "sinavlar": [
+            {
+              "ad": "Vize",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Sınav/WTT - Vize.pdf"
+            },
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Sınav/WTT - Final.pdf"
+            }
+          ],
+          "notlar": [
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Pdf/W_T_T H01.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Pdf/W_T_T H02.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Pdf/W_T_T H03.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Pdf/W_T_T H04.pdf"
+            },
+            {
+              "ad": "Not",
+              "url": "Bölümler/Bilgisayar Programcılığı/Web Tasarımın Temelleri/Pdf/W_T_T H05.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css");
+
+/* Dizüstü bilgisayarlar için CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dayak {
+  margin-top: 100px;
+  width: 100%;
+  color: #101827;
+  bottom: 0;
+
+}
+
+
+.website{
+  text-align: center;
+  color: #a577f0;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #101827;
+}
+
+.back {
+  border-bottom: 1px solid #6d49a8;
+
+}
+
+.menu {
+  display: flex;
+  /* Flexbox ile yatay düzende hizalar */
+  align-items: center;
+  /* Menü öğelerini dikeyde ortalar */
+  width: 1200px;
+  height: 60px;
+  margin: 0 auto;
+  /* Menüyü ortalar */
+  color: #ffffff;
+}
+
+.menu-logo {
+  background-image: url('icon.png');
+  background-size: contain;
+  /* Resmi boyutlandırarak içine sığdırır */
+  background-position: center;
+  /* Resmi ortalar */
+  background-repeat: no-repeat;
+  /* Resmin tekrarlanmasını engeller */
+  width: 50px;
+  /* Logo genişliği */
+  height: 50px;
+}
+
+.menu-item ul {
+  display: flex;
+  padding-left: 40px;
+}
+
+.menu ul li {
+  list-style-type: none;
+  margin-right: 50px;
+
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+.menu-span-text {
+  margin-left: auto;
+  display: none;
+  /* Menü span öğesini en sağa iter */
+}
+
+.menu-span-button {
+  display: none;
+}
+
+
+
+.bolum-container {
+  width: 1200px;
+  margin: 40px auto 0 auto;
+  background-color: #223861;
+  border-radius: 6px;
+}
+
+.bolum-container a {
+  text-decoration: none;
+}
+
+.bolum-item {
+  padding: 10px;
+}
+
+.bolum-item-content {
+  display: flex;
+  width: 575px;
+  height: 100px;
+  margin: 5px;
+  border: 1px solid #6d49a8;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #1d283c;
+  color: white;
+}
+
+.bolum-item-image {
+  width: 100px;
+  border-radius: 5px 0 0 5px;
+}
+
+.bolum-item-text {
+  font-weight: 500;
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.bolum-item-text .title {
+  color: #a0a4ad;
+}
+
+.bolum-text-content {
+  width: 100%;
+  padding: 10px;
+}
+
+.bolum-container-title {
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 auto;
+  background-color: #6d49a8;
+  height: 50px;
+  border-radius: 6px 6px 0 0;
+  color: #fff;
+}
+
+#ders-container-title {
+  background-color: #3e9b7a;
+}
+
+#bolum-listesi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#bolum-listesi :hover {
+  transform: scale(1.004);
+}
+
+#ders-listesi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+}
+
+#ders2-container-title {
+  background-color: #82882d;
+}
+
+#ders3-container-title {
+  background-color: #349add;
+}
+
+.ders-item-list {
+  width: 360px;
+  border: 1px solid #6d49a8;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #1d283c;
+  margin: 5px;
+  padding: 10px;
+}
+
+.ders-item-list p,
+.ders-item-title {
+  color: #fff;
+}
+
+.ders-item-list .title {
+  color: #a0a4ad;
+}
+
+.ders-item-text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ders-item-text p {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+
+.ders-secim {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ders-secim a {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  color: white;
+  border: 1px solid #6d49a8;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #1d283c;
+  margin: 15px;
+  padding: 10px;
+}
+
+
+#icerik-listesi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.icerik-1 {
+  width: 254px;
+  color: white;
+  border: 1px solid #6d49a8;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #1d283c;
+  margin: 10px;
+  padding: 10px;
+}
+
+.icerik-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  font-size: 13px;
+  color: #a0a4ad;
+}
+
+
+.map {
+  color: #ffe272;
+  font-size: 13px;
+}
+
+.map a {
+  color: white;
+  font-weight: lighter;
+}
+
+.map span {
+  font-size: 13px;
+  color: #000000;
+}
+
+.map-title {
+  display: flex;
+}
+
+.back {
+  z-index: 1;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-block {
+  display: flex;
+  width: 100%;
+  height: 200px;
+  justify-content: center;
+  font-size: 20px;
+  align-items: flex-end;
+}
+
+#block1,
+#block2,
+#block3,
+#block4,
+#block5 {
+
+  background-size: cover;
+  /* Görüntüyü tam ekran yapar */
+  background-position: center;
+  /* Görüntüyü ortalar */
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+
+#block1 {
+  background-image: url('images/yemek.jpg');
+}
+
+#block2 {
+  background-image: url('images/para.png');
+}
+
+#block3 {
+  background-image: url('images/duyuru.png');
+}
+
+#block4 {
+  background-image: url('images/takvim.png');
+}
+
+#block5 {
+  background-image: url('images/giris.png');
+}
+
+.block-title {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: #10182748;
+  border-radius: 0 0 6px 6px;
+  font-weight: 600;
+  color: white;
+}
+
+.cont-a {
+  display: flex;
+  width: 100%;
+  height: 200px;
+  margin: 10px;
+  border: 1px solid #6d49a8;
+  border-radius: 6px;
+  justify-content: center;
+  font-size: 20px;
+  align-items: flex-end;
+}
+
+
+.cont-a :hover {
+  transform: scale(1.01);
+}
+
+.ders-item-links {
+  display: flex;
+  margin-top: 5px;
+}
+
+.ders-item-links a {
+  padding: 2px;
+  font-size: 13px;
+  border-radius: 3px;
+  display: flex;
+  background-color: #223861;
+  border: 1px solid #6d49a8;
+  color: white;
+  width: 100%;
+  justify-content: center;
+  margin: 3px;
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Tabletler için CSS */
+}
+
+@media only screen and (max-width: 480px) {
+  /* Küçük ekranlı telefonlar için CSS */
+
+  .body {
+    width: 100%;
+  }
+
+  .menu {
+    width: 100%;
+    height: 60px;
+    padding: 10px;
+    position: fixed;
+    background-color: #101827;
+    z-index: 999;
+  }
+
+  .menu-item ul {
+    display: flex;
+    flex-direction: column;
+    background-color: #101827;
+    width: 100%;
+    position: fixed;
+    height: 100%;
+    right: -600px;
+    padding: 0;
+    top: 80px;
+    transition: right 0.3s ease;  /* Kayma animasyonu */
+    overflow-y: auto
+  }
+
+  .menu-item ul.open {
+    right: 0
+  }
+
+  .menu-item ul li {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .menu-item ul li a {
+    width: 100%;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    border-top: 1px solid #6d49a8;
+    border-bottom: 1px solid #6d49a8;
+  }
+
+  .bolum-container {
+    width: 90%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+  }
+
+  .bolum-item-content {
+    width: 98%;
+    font-size: 12px;
+  }
+
+  #bolum-listesi {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #ders-listesi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .ders-item-list {
+    margin: 5px;
+    width: auto;
+  }
+
+  #icerik-listesi {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .icerik-1 {
+    width: auto;
+  }
+
+  .bolum-container-title {
+    font-size: 13px;
+  }
+
+  .container {
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+  .cont-a {
+    z-index: 2;
+    width: auto;
+    height: 300px;
+  }
+
+  .container-block {
+    z-index: 3;
+    height: 300px;
+  }    
+
+
+
+  .menu-span-text {
+    display: none;
+  }
+
+  .menu-span-button {
+    display: flex;
+    width: 78%;
+    justify-content: flex-end;
+  }
+
+  .menu-span-button i {
+    cursor: pointer;
+    font-size: 20px;
+    transition: 1s ease;  /* Kayma animasyonu */
+
+  }
+
+  .website{
+    font-size: 15px;
+  }
+
+}
