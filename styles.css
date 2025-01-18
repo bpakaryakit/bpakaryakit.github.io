@@ -438,7 +438,8 @@ body {
     padding: 0;
     top: 80px;
     transition: right 0.3s ease;  /* Kayma animasyonu */
-    overflow-y: auto
+    overflow-y: auto;
+    overflow-x: hidden;
   }
 
   .menu-item ul.open {

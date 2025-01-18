@@ -52,3 +52,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
+// Sağ tıklamayı engelle
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault(); // Sağ tıklama menüsünü devre dışı bırakır
+});
+
+// Tuş kombinasyonlarını engelle
+document.addEventListener('keydown', function (e) {
+  // F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U gibi kısayolları engelle
+  if (
+      e.key === 'F12' || 
+      (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' )) || 
+      (e.ctrlKey && e.key === 'U') || 
+      (e.ctrlKey && e.key === 'A') || 
+      (e.ctrlKey && e.key === 'S')
+  ) {
+      e.preventDefault(); // Varsayılan davranışı engeller  
+  }
+});
