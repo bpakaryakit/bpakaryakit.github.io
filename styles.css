@@ -474,7 +474,17 @@ body {
   text-align: left;
 }
 
+#harikalar {
+  background-color: #8799eb;
+}
 
+.gecehayati{
+  text-align: center;
+  color: white;
+  padding: 15px;  
+  font-size: 20px;
+  font-weight: 600;
+}
 
 
 
