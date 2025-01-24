@@ -21,7 +21,7 @@
   justify-content: center;
   align-items: center;
   background-color: #6d49a8;
-  border-radius: 5px 5px 0 0;
+  border-radius: 6px;
   color: #ffffff;
   height: 50px;
 }
@@ -186,7 +186,7 @@ body {
   margin: 0 auto;
   background-color: #6d49a8;
   height: 50px;
-  border-radius: 6px 6px 0 0;
+  border-radius: 6px;
   color: #fff;
 }
 
@@ -489,6 +489,7 @@ body {
 
 
 
+
 @media only screen and (max-width: 480px) {
   /* Küçük ekranlı telefonlar için CSS */
 
@@ -646,4 +647,7 @@ body {
     height: 250px;
   }
 
+  .gurme-title{
+    font-size: 17px;
+  }
 }
