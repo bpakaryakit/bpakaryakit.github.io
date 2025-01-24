@@ -855,6 +855,13 @@
         },
         {
           "ad": "Mobil Uygulama Geliştirme",
+          "sinavlar": [
+            {
+              "ad": "Final",
+              "url": "Bölümler/Bilgisayar Programcılığı/Mobil Uygulama Geliştirme/Sınav/Mo_U_G - Final.pdf"
+            }
+          ],
+          
           "notlar": [
             {
               "ad": "NOT Kurulum Video",
