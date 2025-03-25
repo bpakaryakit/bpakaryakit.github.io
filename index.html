@@ -14,22 +14,22 @@
         body, html {
             height: 100%;
             background-color: black; /* Arka plan siyah */
-            overflow: hidden; /* Taşma durumlarını engeller */
+            overflow: hidden;
         }
 
         video {
             position: absolute;
-            top: 0;
+            top: 5%; /* Yukarıdan boşluk bırak */
             left: 0;
             width: 100vw;  /* Genişlik ekranın %100’ü */
-            height: 100vh;  /* Yükseklik ekranın %100’ü */
+            height: 90vh;  /* Yukarıdan ve aşağıdan boşlukla birlikte %90 yükseklik */
             object-fit: cover; /* Videoyu ekranı dolduracak şekilde kırp */
         }
     </style>
 </head>
 <body>
 
-    <video autoplay muted loop>
+    <video autoplay loop controls>
         <source src="Shrek plays the Saxophone.mp4" type="video/mp4">
         Tarayıcınız video etiketini desteklemiyor.
     </video>
