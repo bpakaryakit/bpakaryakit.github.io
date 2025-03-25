@@ -29,19 +29,10 @@
 </head>
 <body>
 
-    <video autoplay loop playsinline control>
+    <video control>
         <source src="Shrek plays the Saxophone.mp4" type="video/mp4">
         Yuh.
     </video>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const video = document.querySelector('video');
-            video.play().catch(error => {
-                console.log("Video otomatik başlatılamadı:", error);
-            });
-        });
-    </script>
 
 </body>
 </html>
