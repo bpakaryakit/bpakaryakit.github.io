@@ -3,7 +3,6 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>👉👌</title>
     <style>
         * {
@@ -16,22 +15,28 @@
             height: 100%;
             background-color: black;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             overflow: hidden;
         }
 
         video {
-            position: absolute;
-            left: 0;
-            width: 100%;
+            max-width: 100%;
+            height: auto;
         }
-        .dayak {
-            margin-top 100%;
-  width: 100%;
-  color: black;
-  bottom: 0;
 
+        .dayak {
+            width: 100%;
+            color: white;
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+        }
+
+        pre {
+            font-size: 14px;
+            white-space: pre-wrap;
         }
     </style>
 </head>
@@ -41,8 +46,9 @@
         <source src="Shrek plays the Saxophone.mp4" type="video/mp4">
         Yuh.
     </video>
-<div class="dayak">
-        <marquee direction="right" scrollamount=4>
+
+    <div class="dayak">
+        <marquee direction="right" scrollamount="4">
             <pre>
                █▀▀░░█
           ▄▀▀▀▀░░░░░█▄▄
@@ -56,8 +62,9 @@
        █▐▀▀▀░▀▀▀▀  ▐░█
     ▄▄▐█▐▄ 💩     ▐░█▄▄
    ▀▄▄▄▄▀▀         ▄▐▄▄▄▀
-  </pre>
+            </pre>
         </marquee>
-</div>
+    </div>
+
 </body>
 </html>
