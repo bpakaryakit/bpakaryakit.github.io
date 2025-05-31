@@ -38,10 +38,10 @@ document.addEventListener("DOMContentLoaded", function () {
         const notSayisi = ders.notlar?.length || 0;
 
         // Sınav ve not bağlantılarını oluştur
-        const sinavlarLink = sinavSayisi > 0 
+        const sinavlarLink = sinavSayisi > 0
           ? `<a href="iceriklistesi.html?bolum=${bolumIndex}&ders=${index}&type=sinavlar">Sınavlar</a>`
           : '';
-        const notlarLink = notSayisi > 0 
+        const notlarLink = notSayisi > 0
           ? `<a href="iceriklistesi.html?bolum=${bolumIndex}&ders=${index}&type=notlar">Notlar</a>`
           : '';
 
@@ -64,8 +64,20 @@ document.addEventListener("DOMContentLoaded", function () {
                 ${sinavlarLink}
                 ${notlarLink}
               </div>
+
+              ${ders.katkida_bulunanlar && ders.katkida_bulunanlar.length > 0 ? `
+                  <div class="katkida-bulunanlar" style="margin-top:10px; display: flex; align-items: center; gap: 16px;">
+                    <p style="font-weight: 600; margin: 0;">Katkıda Bulunanlar:</p>
+                    <div style="display: flex; gap: 10px; margin-top: 5px;">
+                      ${ders.katkida_bulunanlar.map(kisi => `
+                        <a href="${kisi.insta}" target="_blank" rel="noopener noreferrer">
+                          <img src="${kisi.foto}" alt="Instagram" style="width: 30px; height: 30px; border-radius: 50%; object-fit: cover; ">
+                        </a>
+                      `).join('')}
+
             </div>
           </div>
+` : ''}
         `;
 
         // Ders elemanını listeye ekle

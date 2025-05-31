@@ -62,7 +62,7 @@ document.addEventListener('keydown', function (e) {
   // F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U gibi kısayolları engelle
   if (
       e.key === 'F12' || 
-      (e.ctrlKey && e.shiftKey && (e.key === 'a' || e.key === 'J' )) || 
+      (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' )) || 
       (e.ctrlKey && e.key === 'U') || 
       (e.ctrlKey && e.key === 'A') || 
       (e.ctrlKey && e.key === 'S')
