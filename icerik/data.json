@@ -494,7 +494,6 @@
         },
         {
           "ad": "C Programlama",
-          "insta": "https://www.instagram.com/veritabani",
           "sinavlar": [
             {
               "ad": "Final",
@@ -1152,6 +1151,12 @@
         },
         {
           "ad": "Web Tasarımın Temelleri",
+          "katkida_bulunanlar": [
+            {
+              "insta": "https://www.instagram.com/mustafa_cavu/",
+              "foto": "/profile/mustafacavu.jpg"
+            }
+          ],
           "sinavlar": [
             {
               "ad": "Vize",
