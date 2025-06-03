@@ -503,6 +503,12 @@
         },
         {
           "ad": "İleri Web Programlama",
+          "katkida_bulunanlar": [
+            {
+              "insta": "https://www.instagram.com/mustafa_cavu/",
+              "foto": "/profile/mustafacavu.jpg"
+            }
+          ],
           "sinavlar": [
             {
               "ad": "Vize",
@@ -1151,12 +1157,6 @@
         },
         {
           "ad": "Web Tasarımın Temelleri",
-          "katkida_bulunanlar": [
-            {
-              "insta": "https://www.instagram.com/mustafa_cavu/",
-              "foto": "/profile/mustafacavu.jpg"
-            }
-          ],
           "sinavlar": [
             {
               "ad": "Vize",
